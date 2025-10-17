@@ -1,15 +1,8 @@
 ```
-git clone git@github.com:whateverany-3m/.github.git
-git clone git@github.com:whateverany-3m/3m-alpine.git
-git clone git@github.com:whateverany-3m/3m-aws.git
-git clone git@github.com:whateverany-3m/3m-bootstrap.git
-git clone git@github.com:whateverany-3m/3m-common.git
-git clone git@github.com:whateverany-3m/3m-debian.git
-git clone git@github.com:whateverany-3m/3m-docker.git
-git clone git@github.com:whateverany-3m/3m-gitleaks.git
-git clone git@github.com:whateverany-3m/3m-lint.git
-git clone git@github.com:whateverany-3m/3m-mqtt.git
-git clone git@github.com:whateverany-3m/3m-terraform.git
-git clone git@github.com:whateverany-3m/sonatype-nexus.git
+        .__            __                                                                              
+__  _  _|  |__ _____ _/  |_  _______  __ ________________    ____ ___.__.           ___________  ____  
+\ \/ \/ /  |  \\__  \\   __\/ __ \  \/ // __ \_  __ \__  \  /    <   |  |  ______  /  _ \_  __ \/ ___\ 
+ \     /|   Y  \/ __ \|  | \  ___/\   /\  ___/|  | \// __ \|   |  \___  | /_____/ (  <_> )  | \/ /_/  >
+  \/\_/ |___|  (____  /__|  \___  >\_/  \___  >__|  (____  /___|  / ____|          \____/|__|  \___  / 
+             \/     \/          \/          \/           \/     \/\/                          /_____/  
 ```
-
